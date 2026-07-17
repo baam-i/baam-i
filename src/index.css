@@ -4,7 +4,7 @@
 
 @layer base {
   body {
-    background-color: oklch(25.128% 0.07962 320.091);
+    background-color: oklch(27.242% 0.08695 312.104);
     @apply text-white relative font-sans h-screen overflow-x-hidden;
   }
 }
