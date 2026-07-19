@@ -1,6 +1,6 @@
 import Header from "./components/Header"
 import Hero from "./components/Hero"
-import gradient from "./assets/gradient.png";
+import gradient from "../public/gradient.png";
 
 export default function App() {
   return (
