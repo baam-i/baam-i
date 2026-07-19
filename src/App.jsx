@@ -13,7 +13,7 @@ export default function App() {
       />
 
       {/*Blur effect*/}
-      <div className="h-0 w-[40rem] absolute top-[20%] right-[-5%] shadow-[0_0_900px_20px_#155b63] -rotate-[30deg] -z-10"></div>
+      <div className="absolute -z-10 right-0 top-1/4 h-[500px] w-[500px] rounded-full bg-[#f55f14] opacity-30 blur-[180px]" />
 
       <Header/>
       <Hero/>

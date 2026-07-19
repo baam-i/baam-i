@@ -13,7 +13,7 @@ const Hero = () => {
 
             {/*main heading*/}
             <h1 className='text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-semibold tracking-wider my-8'>
-                jr
+                not
                 <br />
                 dev
             </h1>
